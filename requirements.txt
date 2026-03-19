@@ -1,6 +1,0 @@
-requests
-beautifulsoup4
-sentence-transformers
-numpy
-gradio>=4.0
-torch
