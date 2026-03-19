@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+sentence-transformers==2.7.0
+huggingface_hub==0.23.4
+numpy
+gradio==4.44.0
+torch==2.2.2+cpu --extra-index-url https://download.pytorch.org/whl/cpu
