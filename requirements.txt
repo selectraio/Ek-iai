@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+scikit-learn
+numpy
+huggingface_hub==0.23.4
+gradio==4.44.0
